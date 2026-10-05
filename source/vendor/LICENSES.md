@@ -1,0 +1,2 @@
+- `htm-preact-standalone.umd.js`: htm 3.1.1 (Apache-2.0, Jason Miller) bundled with Preact (MIT). https://github.com/developit/htm
+- Fonts in `source/fonts/`: Manrope and Bricolage Grotesque, SIL Open Font License 1.1 (licence files alongside).

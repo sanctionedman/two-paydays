@@ -1,0 +1,6 @@
+node_modules/
+two-paydays-backup-*.json
+*.backup.json
+source/online/
+shots/
+.DS_Store
